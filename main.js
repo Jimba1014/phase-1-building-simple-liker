@@ -2,9 +2,12 @@
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
-// Your JavaScript code goes here!
+//Your JavaScript code goes here!
 
-
+EMPTY_HEART.addEventListener('click',() => li.remove())
+// function changeButton(){
+//   document.getElementByClassName("like-glyph")
+// }
 
 
 //------------------------------------------------------------------------------
